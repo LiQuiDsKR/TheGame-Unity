@@ -1,0 +1,5130 @@
+fileFormatVersion: 2
+guid: f6abb25e1677b0e4ba122492dc9daad6
+timeCreated: 1681482588
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monochrome_tilemap_0
+    21300002: monochrome_tilemap_1
+    21300004: monochrome_tilemap_2
+    21300006: monochrome_tilemap_3
+    21300008: monochrome_tilemap_4
+    21300010: monochrome_tilemap_5
+    21300012: monochrome_tilemap_6
+    21300014: monochrome_tilemap_7
+    21300016: monochrome_tilemap_8
+    21300018: monochrome_tilemap_9
+    21300020: monochrome_tilemap_10
+    21300022: monochrome_tilemap_11
+    21300024: monochrome_tilemap_12
+    21300026: monochrome_tilemap_13
+    21300028: monochrome_tilemap_14
+    21300030: monochrome_tilemap_15
+    21300032: monochrome_tilemap_16
+    21300034: monochrome_tilemap_17
+    21300036: monochrome_tilemap_18
+    21300038: monochrome_tilemap_19
+    21300040: monochrome_tilemap_20
+    21300042: monochrome_tilemap_21
+    21300044: monochrome_tilemap_22
+    21300046: monochrome_tilemap_23
+    21300048: monochrome_tilemap_24
+    21300050: monochrome_tilemap_25
+    21300052: monochrome_tilemap_26
+    21300054: monochrome_tilemap_27
+    21300056: monochrome_tilemap_28
+    21300058: monochrome_tilemap_29
+    21300060: monochrome_tilemap_30
+    21300062: monochrome_tilemap_31
+    21300064: monochrome_tilemap_32
+    21300066: monochrome_tilemap_33
+    21300068: monochrome_tilemap_34
+    21300070: monochrome_tilemap_35
+    21300072: monochrome_tilemap_36
+    21300074: monochrome_tilemap_37
+    21300076: monochrome_tilemap_38
+    21300078: monochrome_tilemap_39
+    21300080: monochrome_tilemap_40
+    21300082: monochrome_tilemap_41
+    21300084: monochrome_tilemap_42
+    21300086: monochrome_tilemap_43
+    21300088: monochrome_tilemap_44
+    21300090: monochrome_tilemap_45
+    21300092: monochrome_tilemap_46
+    21300094: monochrome_tilemap_47
+    21300096: monochrome_tilemap_48
+    21300098: monochrome_tilemap_49
+    21300100: monochrome_tilemap_50
+    21300102: monochrome_tilemap_51
+    21300104: monochrome_tilemap_52
+    21300106: monochrome_tilemap_53
+    21300108: monochrome_tilemap_54
+    21300110: monochrome_tilemap_55
+    21300112: monochrome_tilemap_56
+    21300114: monochrome_tilemap_57
+    21300116: monochrome_tilemap_58
+    21300118: monochrome_tilemap_59
+    21300120: monochrome_tilemap_60
+    21300122: monochrome_tilemap_61
+    21300124: monochrome_tilemap_62
+    21300126: monochrome_tilemap_63
+    21300128: monochrome_tilemap_64
+    21300130: monochrome_tilemap_65
+    21300132: monochrome_tilemap_66
+    21300134: monochrome_tilemap_67
+    21300136: monochrome_tilemap_68
+    21300138: monochrome_tilemap_69
+    21300140: monochrome_tilemap_70
+    21300142: monochrome_tilemap_71
+    21300144: monochrome_tilemap_72
+    21300146: monochrome_tilemap_73
+    21300148: monochrome_tilemap_74
+    21300150: monochrome_tilemap_75
+    21300152: monochrome_tilemap_76
+    21300154: monochrome_tilemap_77
+    21300156: monochrome_tilemap_78
+    21300158: monochrome_tilemap_79
+    21300160: monochrome_tilemap_80
+    21300162: monochrome_tilemap_81
+    21300164: monochrome_tilemap_82
+    21300166: monochrome_tilemap_83
+    21300168: monochrome_tilemap_84
+    21300170: monochrome_tilemap_85
+    21300172: monochrome_tilemap_86
+    21300174: monochrome_tilemap_87
+    21300176: monochrome_tilemap_88
+    21300178: monochrome_tilemap_89
+    21300180: monochrome_tilemap_90
+    21300182: monochrome_tilemap_91
+    21300184: monochrome_tilemap_92
+    21300186: monochrome_tilemap_93
+    21300188: monochrome_tilemap_94
+    21300190: monochrome_tilemap_95
+    21300192: monochrome_tilemap_96
+    21300194: monochrome_tilemap_97
+    21300196: monochrome_tilemap_98
+    21300198: monochrome_tilemap_99
+    21300200: monochrome_tilemap_100
+    21300202: monochrome_tilemap_101
+    21300204: monochrome_tilemap_102
+    21300206: monochrome_tilemap_103
+    21300208: monochrome_tilemap_104
+    21300210: monochrome_tilemap_105
+    21300212: monochrome_tilemap_106
+    21300214: monochrome_tilemap_107
+    21300216: monochrome_tilemap_108
+    21300218: monochrome_tilemap_109
+    21300220: monochrome_tilemap_110
+    21300222: monochrome_tilemap_111
+    21300224: monochrome_tilemap_112
+    21300226: monochrome_tilemap_113
+    21300228: monochrome_tilemap_114
+    21300230: monochrome_tilemap_115
+    21300232: monochrome_tilemap_116
+    21300234: monochrome_tilemap_117
+    21300236: monochrome_tilemap_118
+    21300238: monochrome_tilemap_119
+    21300240: monochrome_tilemap_120
+    21300242: monochrome_tilemap_121
+    21300244: monochrome_tilemap_122
+    21300246: monochrome_tilemap_123
+    21300248: monochrome_tilemap_124
+    21300250: monochrome_tilemap_125
+    21300252: monochrome_tilemap_126
+    21300254: monochrome_tilemap_127
+    21300256: monochrome_tilemap_128
+    21300258: monochrome_tilemap_129
+    21300260: monochrome_tilemap_130
+    21300262: monochrome_tilemap_131
+    21300264: monochrome_tilemap_132
+    21300266: monochrome_tilemap_133
+    21300268: monochrome_tilemap_134
+    21300270: monochrome_tilemap_135
+    21300272: monochrome_tilemap_136
+    21300274: monochrome_tilemap_137
+    21300276: monochrome_tilemap_138
+    21300278: monochrome_tilemap_139
+    21300280: monochrome_tilemap_140
+    21300282: monochrome_tilemap_141
+    21300284: monochrome_tilemap_142
+    21300286: monochrome_tilemap_143
+    21300288: monochrome_tilemap_144
+    21300290: monochrome_tilemap_145
+    21300292: monochrome_tilemap_146
+    21300294: monochrome_tilemap_147
+    21300296: monochrome_tilemap_148
+    21300298: monochrome_tilemap_149
+    21300300: monochrome_tilemap_150
+    21300302: monochrome_tilemap_151
+    21300304: monochrome_tilemap_152
+    21300306: monochrome_tilemap_153
+    21300308: monochrome_tilemap_154
+    21300310: monochrome_tilemap_155
+    21300312: monochrome_tilemap_156
+    21300314: monochrome_tilemap_157
+    21300316: monochrome_tilemap_158
+    21300318: monochrome_tilemap_159
+    21300320: monochrome_tilemap_160
+    21300322: monochrome_tilemap_161
+    21300324: monochrome_tilemap_162
+    21300326: monochrome_tilemap_163
+    21300328: monochrome_tilemap_164
+    21300330: monochrome_tilemap_165
+    21300332: monochrome_tilemap_166
+    21300334: monochrome_tilemap_167
+    21300336: monochrome_tilemap_168
+    21300338: monochrome_tilemap_169
+    21300340: monochrome_tilemap_170
+    21300342: monochrome_tilemap_171
+    21300344: monochrome_tilemap_172
+    21300346: monochrome_tilemap_173
+    21300348: monochrome_tilemap_174
+    21300350: monochrome_tilemap_175
+    21300352: monochrome_tilemap_176
+    21300354: monochrome_tilemap_177
+    21300356: monochrome_tilemap_178
+    21300358: monochrome_tilemap_179
+    21300360: monochrome_tilemap_180
+    21300362: monochrome_tilemap_181
+    21300364: monochrome_tilemap_182
+    21300366: monochrome_tilemap_183
+    21300368: monochrome_tilemap_184
+    21300370: monochrome_tilemap_185
+    21300372: monochrome_tilemap_186
+    21300374: monochrome_tilemap_187
+    21300376: monochrome_tilemap_188
+    21300378: monochrome_tilemap_189
+    21300380: monochrome_tilemap_190
+    21300382: monochrome_tilemap_191
+    21300384: monochrome_tilemap_192
+    21300386: monochrome_tilemap_193
+    21300388: monochrome_tilemap_194
+    21300390: monochrome_tilemap_195
+    21300392: monochrome_tilemap_196
+    21300394: monochrome_tilemap_197
+    21300396: monochrome_tilemap_198
+    21300398: monochrome_tilemap_199
+    21300400: monochrome_tilemap_200
+    21300402: monochrome_tilemap_201
+    21300404: monochrome_tilemap_202
+    21300406: monochrome_tilemap_203
+    21300408: monochrome_tilemap_204
+    21300410: monochrome_tilemap_205
+    21300412: monochrome_tilemap_206
+    21300414: monochrome_tilemap_207
+    21300416: monochrome_tilemap_208
+    21300418: monochrome_tilemap_209
+    21300420: monochrome_tilemap_210
+    21300422: monochrome_tilemap_211
+    21300424: monochrome_tilemap_212
+    21300426: monochrome_tilemap_213
+    21300428: monochrome_tilemap_214
+    21300430: monochrome_tilemap_215
+    21300432: monochrome_tilemap_216
+    21300434: monochrome_tilemap_217
+    21300436: monochrome_tilemap_218
+    21300438: monochrome_tilemap_219
+    21300440: monochrome_tilemap_220
+    21300442: monochrome_tilemap_221
+    21300444: monochrome_tilemap_222
+    21300446: monochrome_tilemap_223
+    21300448: monochrome_tilemap_224
+    21300450: monochrome_tilemap_225
+    21300452: monochrome_tilemap_226
+    21300454: monochrome_tilemap_227
+    21300456: monochrome_tilemap_228
+    21300458: monochrome_tilemap_229
+    21300460: monochrome_tilemap_230
+    21300462: monochrome_tilemap_231
+    21300464: monochrome_tilemap_232
+    21300466: monochrome_tilemap_233
+    21300468: monochrome_tilemap_234
+    21300470: monochrome_tilemap_235
+    21300472: monochrome_tilemap_236
+    21300474: monochrome_tilemap_237
+    21300476: monochrome_tilemap_238
+    21300478: monochrome_tilemap_239
+    21300480: monochrome_tilemap_240
+    21300482: monochrome_tilemap_241
+    21300484: monochrome_tilemap_242
+    21300486: monochrome_tilemap_243
+    21300488: monochrome_tilemap_244
+    21300490: monochrome_tilemap_245
+    21300492: monochrome_tilemap_246
+    21300494: monochrome_tilemap_247
+    21300496: monochrome_tilemap_248
+    21300498: monochrome_tilemap_249
+    21300500: monochrome_tilemap_250
+    21300502: monochrome_tilemap_251
+    21300504: monochrome_tilemap_252
+    21300506: monochrome_tilemap_253
+    21300508: monochrome_tilemap_254
+    21300510: monochrome_tilemap_255
+    21300512: monochrome_tilemap_256
+    21300514: monochrome_tilemap_257
+    21300516: monochrome_tilemap_258
+    21300518: monochrome_tilemap_259
+    21300520: monochrome_tilemap_260
+    21300522: monochrome_tilemap_261
+    21300524: monochrome_tilemap_262
+    21300526: monochrome_tilemap_263
+    21300528: monochrome_tilemap_264
+    21300530: monochrome_tilemap_265
+    21300532: monochrome_tilemap_266
+    21300534: monochrome_tilemap_267
+    21300536: monochrome_tilemap_268
+    21300538: monochrome_tilemap_269
+    21300540: monochrome_tilemap_270
+    21300542: monochrome_tilemap_271
+    21300544: monochrome_tilemap_272
+    21300546: monochrome_tilemap_273
+    21300548: monochrome_tilemap_274
+    21300550: monochrome_tilemap_275
+    21300552: monochrome_tilemap_276
+    21300554: monochrome_tilemap_277
+    21300556: monochrome_tilemap_278
+    21300558: monochrome_tilemap_279
+    21300560: monochrome_tilemap_280
+    21300562: monochrome_tilemap_281
+    21300564: monochrome_tilemap_282
+    21300566: monochrome_tilemap_283
+    21300568: monochrome_tilemap_284
+    21300570: monochrome_tilemap_285
+    21300572: monochrome_tilemap_286
+    21300574: monochrome_tilemap_287
+    21300576: monochrome_tilemap_288
+    21300578: monochrome_tilemap_289
+    21300580: monochrome_tilemap_290
+    21300582: monochrome_tilemap_291
+    21300584: monochrome_tilemap_292
+    21300586: monochrome_tilemap_293
+    21300588: monochrome_tilemap_294
+    21300590: monochrome_tilemap_295
+    21300592: monochrome_tilemap_296
+    21300594: monochrome_tilemap_297
+    21300596: monochrome_tilemap_298
+    21300598: monochrome_tilemap_299
+    21300600: monochrome_tilemap_300
+    21300602: monochrome_tilemap_301
+    21300604: monochrome_tilemap_302
+    21300606: monochrome_tilemap_303
+    21300608: monochrome_tilemap_304
+    21300610: monochrome_tilemap_305
+    21300612: monochrome_tilemap_306
+    21300614: monochrome_tilemap_307
+    21300616: monochrome_tilemap_308
+    21300618: monochrome_tilemap_309
+    21300620: monochrome_tilemap_310
+    21300622: monochrome_tilemap_311
+    21300624: monochrome_tilemap_312
+    21300626: monochrome_tilemap_313
+    21300628: monochrome_tilemap_314
+    21300630: monochrome_tilemap_315
+    21300632: monochrome_tilemap_316
+    21300634: monochrome_tilemap_317
+    21300636: monochrome_tilemap_318
+    21300638: monochrome_tilemap_319
+    21300640: monochrome_tilemap_320
+    21300642: monochrome_tilemap_321
+    21300644: monochrome_tilemap_322
+    21300646: monochrome_tilemap_323
+    21300648: monochrome_tilemap_324
+    21300650: monochrome_tilemap_325
+    21300652: monochrome_tilemap_326
+    21300654: monochrome_tilemap_327
+    21300656: monochrome_tilemap_328
+    21300658: monochrome_tilemap_329
+    21300660: monochrome_tilemap_330
+    21300662: monochrome_tilemap_331
+    21300664: monochrome_tilemap_332
+    21300666: monochrome_tilemap_333
+    21300668: monochrome_tilemap_334
+    21300670: monochrome_tilemap_335
+    21300672: monochrome_tilemap_336
+    21300674: monochrome_tilemap_337
+    21300676: monochrome_tilemap_338
+    21300678: monochrome_tilemap_339
+    21300680: monochrome_tilemap_340
+    21300682: monochrome_tilemap_341
+    21300684: monochrome_tilemap_342
+    21300686: monochrome_tilemap_343
+    21300688: monochrome_tilemap_344
+    21300690: monochrome_tilemap_345
+    21300692: monochrome_tilemap_346
+    21300694: monochrome_tilemap_347
+    21300696: monochrome_tilemap_348
+    21300698: monochrome_tilemap_349
+    21300700: monochrome_tilemap_350
+    21300702: monochrome_tilemap_351
+    21300704: monochrome_tilemap_352
+    21300706: monochrome_tilemap_353
+    21300708: monochrome_tilemap_354
+    21300710: monochrome_tilemap_355
+    21300712: monochrome_tilemap_356
+    21300714: monochrome_tilemap_357
+    21300716: monochrome_tilemap_358
+    21300718: monochrome_tilemap_359
+    21300720: monochrome_tilemap_360
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monochrome_tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 322.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 305.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 288.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 271.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_90
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_92
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_94
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 254.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_97
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_98
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_101
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_103
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_106
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_107
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_109
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_112
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_113
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 237.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_115
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_116
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_117
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_118
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_120
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_121
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_122
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_123
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_124
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_126
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_127
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_128
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_129
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_131
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_132
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 220.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_134
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_135
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_136
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_137
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_138
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_139
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_140
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_142
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_143
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_144
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_145
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_146
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_147
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_148
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_149
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_150
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_151
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 203.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_153
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_154
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_155
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_156
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_158
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_159
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_160
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_161
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_162
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_163
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_165
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_166
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_167
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_168
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_169
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_170
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 186.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_173
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_174
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_175
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_176
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_177
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_178
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_179
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_180
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_181
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_182
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_183
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_184
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_185
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_186
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_187
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_188
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_189
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 169.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_191
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_192
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_193
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_194
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_195
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_196
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_197
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_199
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_200
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_201
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_202
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_203
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_204
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_205
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_206
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_207
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_208
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 152.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_209
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_210
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_211
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_212
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_213
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_214
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_215
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_216
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_217
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_218
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_219
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_220
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_221
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_222
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_223
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_224
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_225
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_226
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_227
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 135.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_229
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_230
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_231
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_232
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_233
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_234
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_235
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_236
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_237
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_238
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_239
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_240
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_241
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_242
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_243
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_244
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_245
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_246
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 118.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_247
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_248
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_249
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_250
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_251
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_252
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_253
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_254
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_255
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_256
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_257
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_258
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_259
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_260
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_261
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_262
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_263
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_264
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_265
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 101.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_267
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_268
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_269
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_270
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_271
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_272
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_273
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_274
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_275
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_276
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_277
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_278
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_279
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_280
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_281
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_282
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_283
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_284
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 84.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_285
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_286
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_287
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_288
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_289
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_290
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_291
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_292
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_293
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_294
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_295
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_296
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_297
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_298
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_299
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_300
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_301
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_302
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_303
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 67.1579
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_304
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_305
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_306
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_307
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_308
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_309
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_310
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_311
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_312
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_313
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_314
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_315
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_316
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_317
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_318
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_319
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_320
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_321
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_322
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 50.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_323
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_324
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_325
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_326
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_327
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_328
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_329
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_330
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_331
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_332
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_333
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_334
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_335
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_336
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_337
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_338
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_339
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_340
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_341
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 33.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_342
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_343
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_344
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_345
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_346
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_347
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_348
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_349
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_350
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_351
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_352
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_353
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_354
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_355
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_356
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_357
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_358
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_359
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monochrome_tilemap_360
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 16.157894
+        width: 16.842106
+        height: 16.842106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
