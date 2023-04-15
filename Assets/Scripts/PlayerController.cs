@@ -10,25 +10,19 @@ public class PlayerController : MonoBehaviour
 	private int jumpCount = 0;
 	public bool isJumping = false;
 	private Rigidbody2D rb;
+	public bool hasKey = false;
 
-	void Start()
-	{
+	void Start() {
 		rb = GetComponent<Rigidbody2D>();
 	}
 
-	void Update()
-	{
+	void Update() {
 		float moveX = Input.GetAxis("Horizontal") * moveSpeed;
 
-		// 방향키로 좌, 우 이동
-		if (moveX != 0)
-		{
-			rb.velocity = new Vector2(moveX, rb.velocity.y);
-		}
+		rb.velocity = new Vector2 (moveX, rb.velocity.y);
 
 		// 스페이스 바나 터치로 점프
-		if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps || Input.touchCount > 0 && jumpCount < maxJumps && !isJumping)
-		{
+		if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isJumping) 	{
 			rb.velocity = new Vector2(rb.velocity.x, jumpForce);
 			jumpCount++;
 			isJumping = true;
@@ -36,12 +30,21 @@ public class PlayerController : MonoBehaviour
 	}
 
 	// 점프가 끝나면 isJumping을 false로 초기화
-	private void OnCollisionEnter2D(Collision2D collision)
-	{
-		if (collision.gameObject.CompareTag("Ground"))
-		{
-			jumpCount = 0;
-			isJumping = false;
+	void OnCollisionEnter2D(Collision2D collision) {
+		
+		// Ground 태그가 붙은 오브젝트 중에서
+		if (collision.collider.tag == ("Ground")) {
+			print ("asdf");
+			// Squarecast를 이용하여 지정한 위치에서 충돌 체크
+			RaycastHit2D hit = Physics2D.BoxCast(gameObject.transform.position + new Vector3(0, -0.41f, 0), new Vector2(0.4f,0.4f),0,Vector2.down, 1, LayerMask.GetMask("GroundLayer"));
+			print (hit.collider.gameObject.name);
+
+			// 충돌한 오브젝트가 Ground 태그가 붙은 오브젝트이고, 충돌한 지점이 Player 오브젝트의 아래쪽이라면
+			if (hit.collider != null && hit.collider.tag == ("Ground"))	{
+				isJumping = false;
+				jumpCount = 0;
+			}
 		}
 	}
+
 }
