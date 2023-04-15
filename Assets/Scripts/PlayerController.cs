@@ -17,15 +17,26 @@ public class PlayerController : MonoBehaviour
 	}
 
 	void Update() {
+		CameraMove ();
+
 		float moveX = Input.GetAxis("Horizontal") * moveSpeed;
 
 		rb.velocity = new Vector2 (moveX, rb.velocity.y);
 
-		// 스페이스 바나 터치로 점프
+		// 스페이스 바로 점프
 		if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isJumping) 	{
 			rb.velocity = new Vector2(rb.velocity.x, jumpForce);
 			jumpCount++;
 			isJumping = true;
+		}
+	}
+
+	void CameraMove() {
+		if (Camera.main.transform.position.x >= gameObject.transform.position.x + 2) {
+			Camera.main.transform.position = new Vector3 (gameObject.transform.position.x + 2, Camera.main.transform.position.y, Camera.main.transform.position.z);
+		}
+		if (Camera.main.transform.position.x <= gameObject.transform.position.x - 2) {
+			Camera.main.transform.position = new Vector3 (gameObject.transform.position.x - 2, Camera.main.transform.position.y, Camera.main.transform.position.z);
 		}
 	}
 
@@ -35,7 +46,7 @@ public class PlayerController : MonoBehaviour
 		// Ground 태그가 붙은 오브젝트 중에서
 		if (collision.collider.tag == ("Ground")) {
 			print ("asdf");
-			// Squarecast를 이용하여 지정한 위치에서 충돌 체크
+			// BoxCast를 이용하여 지정한 위치에서 충돌 체크
 			RaycastHit2D hit = Physics2D.BoxCast(gameObject.transform.position + new Vector3(0, -0.41f, 0), new Vector2(0.4f,0.4f),0,Vector2.down, 1, LayerMask.GetMask("GroundLayer"));
 			print (hit.collider.gameObject.name);
 
