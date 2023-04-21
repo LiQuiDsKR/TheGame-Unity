@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -11,6 +12,9 @@ public class PlayerController : MonoBehaviour
 	public bool isJumping = false;
 	private Rigidbody2D rb;
 	public bool hasKey = false;
+	public bool isFreeze = false;
+
+	public float effectAlpha = 0.0f;
 
 	void Start() {
 		rb = GetComponent<Rigidbody2D>();
@@ -18,17 +22,38 @@ public class PlayerController : MonoBehaviour
 
 	void Update() {
 		CameraMove ();
+		PlayerEscapeScreen ();
+		if (!isFreeze) {
+			// 좌우방향키 이동
+			float moveX = Input.GetAxis("Horizontal") * moveSpeed;
+			rb.velocity = new Vector2 (moveX, rb.velocity.y);
 
-		float moveX = Input.GetAxis("Horizontal") * moveSpeed;
+			// 스페이스 바로 점프
+			if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isJumping) 	{
+				rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+				jumpCount++;
+				isJumping = true;
+			}
 
-		rb.velocity = new Vector2 (moveX, rb.velocity.y);
-
-		// 스페이스 바로 점프
-		if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isJumping) 	{
-			rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-			jumpCount++;
-			isJumping = true;
 		}
+
+
+
+	}
+
+	void PlayerEscapeScreen() {
+		if (GameObject.Find ("Player").transform.position.y <= -10) {
+			GAMEOVER ();
+			if (effectAlpha >= 1.0f) {
+				SceneManager.LoadScene (gameObject.scene.name);
+				effectAlpha = 0;
+			}
+		}
+	}
+
+	public void GAMEOVER() {
+		effectAlpha += 0.02f;
+		GameObject.Find ("GameOverEffect").GetComponent<SpriteRenderer> ().color = new Color (0, 0, 0, effectAlpha);
 	}
 
 	void CameraMove() {
