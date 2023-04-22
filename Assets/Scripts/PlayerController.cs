@@ -7,9 +7,8 @@ public class PlayerController : MonoBehaviour
 {
 	public float moveSpeed = 5f;
 	public float jumpForce = 5f;
-	public int maxJumps = 1; // 멀티점프 기능 추가
-	private int jumpCount = 0;
-	public bool isJumping = false;
+	public int maxJumps; // 멀티점프 기능 추가
+	private int jumpCount;
 	private Rigidbody2D rb;
 	public bool hasKey = false;
 	public bool isFreeze = false;
@@ -18,10 +17,11 @@ public class PlayerController : MonoBehaviour
 
 	void Start() {
 		rb = GetComponent<Rigidbody2D>();
+		jumpCount = maxJumps;
 	}
 
 	void Update() {
-		CameraMove ();
+		// CameraMove ();
 		PlayerEscapeScreen ();
 		if (!isFreeze) {
 			// 좌우방향키 이동
@@ -29,10 +29,11 @@ public class PlayerController : MonoBehaviour
 			rb.velocity = new Vector2 (moveX, rb.velocity.y);
 
 			// 스페이스 바로 점프
-			if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && !isJumping) 	{
-				rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-				jumpCount++;
-				isJumping = true;
+			if (Input.GetKeyDown(KeyCode.Space)) {
+				if (jumpCount > 0) {
+					jumpCount--;
+					rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+				}
 			}
 
 		}
@@ -77,10 +78,13 @@ public class PlayerController : MonoBehaviour
 
 			// 충돌한 오브젝트가 Ground 태그가 붙은 오브젝트이고, 충돌한 지점이 Player 오브젝트의 아래쪽이라면
 			if (hit.collider != null && hit.collider.tag == ("Ground"))	{
-				isJumping = false;
 				jumpCount = 0;
 			}
 		}
+	}
+
+	void OnTriggerEnter2D(Collider2D collider) {
+		jumpCount = maxJumps;
 	}
 
 }
